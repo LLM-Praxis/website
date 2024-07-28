@@ -12,11 +12,11 @@ Im Rahmen von LLMpraxis sollen explizit keine neuen GPT Algorithmen erforscht od
 Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsam mit vier Partnerfirmen wurden fünf konkrete Anwendungen in den zwei grundlegenden Kategorien Coding-Assistent (AP5) und ChatBot (AP6) definiert, welche durch Ihre Anforderungen die Forschung und Entwicklung treiben. Ziel ist es, hier schon frühzeitig im Projekt erste Lösungen in den Realbetrieb zu bringen und so die praktisch relevanten Herausforderung zu erfassen (AP7).
 
 ## Partner:
-## Forschungseinrichtungen
+### Forschungseinrichtungen
 &nbsp;<a href="https://www.hs-offenburg.de"><img src="hso.png" width=150></a>&nbsp;
 &nbsp;<a href="https://imla.hs-offenburg.de/"><img src="IMLA_small.png" width=100></a>&nbsp;
 &nbsp;<a href="https://aci.hs-offenburg.de/"><img src="ACI_Logo_01_small.png" width=125></a>&nbsp;
-## Industriepartner
+### Industriepartner
 TBA
 
 ## Kontakt
