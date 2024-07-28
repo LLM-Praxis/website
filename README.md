@@ -14,7 +14,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 ## Partner:
 ## Forschungseinrichtungen
 &nbsp;<a href="https://www.hs-offenburg.de"><img src="hso.png" width=150></a>&nbsp;
-&nbsp;<a href="https://imla.hs-offenburg.de/"><img src="IMLA.png" width=250></a>&nbsp;
+&nbsp;<a href="https://imla.hs-offenburg.de/"><img src="IMLA_small.png" width=100></a>&nbsp;
 &nbsp;<a href="https://aci.hs-offenburg.de/"><img src="ACI_Logo_01_small.png" width=125></a>&nbsp;
 ## Industriepartner
 TBA
