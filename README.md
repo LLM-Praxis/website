@@ -2,7 +2,7 @@
 
 Laufzeit: 10/24 - 9/28
 
-<img src="BMBF.jpeg" width=300>
+<img src="LLMpraxis.png" width=400>
 
 ## Projektbeschreibung
 Im Kontext von LLMs, wie bei der Einführung vieler anderer disruptiven Technologien, ergeben sich vielfältige wissenschaftliche, technologische, juristische und gesellschaftliche Fragestellungen von große Breite und Tiefe, welche unfraglich ausnahmslos von großer Bedeutung sind, aber unmöglich alle in einem Projekt behandelt werden können. Daher wird sich das vorgeschlagenen Projekt sowohl technologisch, als auch bei der Betrachtung der Technologiefolgen und Rahmenbedingungen auf wenige Kernthemen beschränken, welche in der Frühphase der Erprobung und Entwicklung von LLM Lösungen beim KMUs von hoher praktische Bedeutung sind und Risiken bezüglich anderer Aspekte minimieren.
@@ -13,7 +13,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 
 ## Partner:
 ## Forschungseinrichtungen
-&nbsp;<href src="www.hs-offenburg.de"><img src="hso.png" width=150></href>&nbsp;&nbsp;<href src="imla.ai"><img src="IMLA.png" width=250></href>
+&nbsp;<a href="https://www.hs-offenburg.de"><img src="hso.png" width=150></a>&nbsp;&nbsp;<a href="https://imla.hs-offenburg.de/"><img src="IMLA.png" width=250></a>
 ## Industriepartner
 TBA
 
