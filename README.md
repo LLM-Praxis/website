@@ -2,7 +2,7 @@
 
 Laufzeit: 10/24 - 9/28
 
-<img src="LLMpraxis.png" width=400>
+<img src="LLMpraxis.png" width=500>
 
 *KI generiertes Symbolbild: "A small team working with Large Language Models" [Dall-e 3]*
 
