@@ -4,6 +4,8 @@ Laufzeit: 10/24 - 9/28
 
 <img src="LLMpraxis.png" width=400>
 
+*KI generiertes Symbolbild: "A small team working with Large Language Models" [Dall-e 3]*
+
 ## Projektbeschreibung
 Im Kontext von LLMs, wie bei der Einführung vieler anderer disruptiven Technologien, ergeben sich vielfältige wissenschaftliche, technologische, juristische und gesellschaftliche Fragestellungen von große Breite und Tiefe, welche unfraglich ausnahmslos von großer Bedeutung sind, aber unmöglich alle in einem Projekt behandelt werden können. Daher wird sich das vorgeschlagenen Projekt sowohl technologisch, als auch bei der Betrachtung der Technologiefolgen und Rahmenbedingungen auf wenige Kernthemen beschränken, welche in der Frühphase der Erprobung und Entwicklung von LLM Lösungen beim KMUs von hoher praktische Bedeutung sind und Risiken bezüglich anderer Aspekte minimieren.
 
@@ -17,7 +19,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 &nbsp;<a href="https://imla.hs-offenburg.de/"><img src="IMLA_small.png" width=100></a>&nbsp;
 &nbsp;<a href="https://aci.hs-offenburg.de/"><img src="ACI_Logo_01_small.png" width=125></a>&nbsp;
 ### Industriepartner
-TBA
+&nbsp;<a href="https://www.inovex.de/de/"><img src="inovex Logo hoch hell.png" width=150></a>&nbsp;... und weitere.
 
 ## Kontakt
 Prof. Janis Keuper <br>
