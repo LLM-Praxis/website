@@ -20,6 +20,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 &nbsp;<a href="https://aci.hs-offenburg.de/"><img src="ACI_Logo_01_small.png" width=125></a>&nbsp;
 ### Industriepartner
 &nbsp;<a href="https://www.inovex.de/de/"><img src="inovex Logo hoch hell.png" width=150></a>
+&nbsp;<a href="https://www.markant.com/"><img src="markant.svg" width=150></a>
 &nbsp;<a href="https://www.sevdesk.de"><img src="sevdesk_Logo.svg" width=150></a>&nbsp;... und weitere.
 
 ## Kontakt
