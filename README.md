@@ -21,7 +21,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 ### Industriepartner
 &nbsp;<a href="https://www.inovex.de/de/"><img src="inovex Logo hoch hell.png" width=150></a>
 &nbsp;<a href="https://www.markant.com/"><img src="markant.svg" width=150></a>
-&nbsp;<a href="https://www.schrempp-edv.de"><img src="schrempp.pnd" width=150></a>&nbsp;
+&nbsp;<a href="https://www.schrempp-edv.de"><img src="schrempp.png" width=150></a>&nbsp;
 &nbsp;<a href="https://www.sevdesk.de"><img src="sevdesk_Logo.svg" width=150></a>&nbsp;
 
 
