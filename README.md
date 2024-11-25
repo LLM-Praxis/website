@@ -1,4 +1,10 @@
 # BMBF Projekt *LLM-Praxis*
+<table>
+  <tr>
+    <td><img src="publisherlogo.jpg" width=400></td>
+    <td><img src="logo.png" width=300></td>
+  </tr>
+</table>
 
 Laufzeit: 10/24 - 9/28
 
