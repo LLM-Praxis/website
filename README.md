@@ -30,6 +30,8 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 &nbsp;<a href="https://www.schrempp-edv.de"><img src="schrempp.png" width=150></a>&nbsp;
 &nbsp;<a href="https://www.sevdesk.de"><img src="sevdesk_Logo.svg" width=150></a>&nbsp;
 
+## Veröffentlichungen 
+* [Pressemitteilung zum Projektstart](https://www.hs-offenburg.de/forschung-und-transfer/news-detailseite-forschung-und-transfer/article/ki-technologie-fuer-alle-unternehmen-zugaenglich-machen)
 
 ## Kontakt
 Prof. Janis Keuper <br>
