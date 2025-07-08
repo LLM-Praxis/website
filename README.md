@@ -36,6 +36,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 
 ### Wiss. Publikationen
 * [Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper, "Can We Talk Models Into Seeing the World Differently?", Accepted at the International Conference on Learning Representations (ICLR) 2025 ](https://openreview.net/pdf?id=iVMcYxTiVM)
+* [Lamm, Bianca, and Janis Keuper. "A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification." Proceedings of the Computer Vision and Pattern Recognition Conference Workshops. 2025.](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/html/Lamm_A_Visual_RAG_Pipeline_for_Few-Shot_Fine-Grained_Product_Classification_CVPRW_2025_paper.html)
 
 ## Kontakt
 Prof. Janis Keuper <br>
