@@ -1,4 +1,4 @@
-# BMBF Projekt *LLM-Praxis*
+# BMFTR Projekt *LLM-Praxis*
 <table>
   <tr>
     <td><img src="BMFTR.png" width=300></td>
