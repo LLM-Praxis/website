@@ -35,8 +35,10 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 * [Pressemitteilung zum Projektstart](https://www.hs-offenburg.de/forschung-und-transfer/news-detailseite-forschung-und-transfer/article/ki-technologie-fuer-alle-unternehmen-zugaenglich-machen)
 
 ### Wiss. Publikationen
-* [Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper, "Can We Talk Models Into Seeing the World Differently?", Accepted at the International Conference on Learning Representations (ICLR) 2025 ](https://openreview.net/pdf?id=iVMcYxTiVM)
+* [Lamm, Bianca, and Janis Keuper. "mSOP-765k: A Benchmark For Multi-Modal Structured Output Predictions". Transactions on Machine Learning Research (TMLR), J2C Certification (Top 10% paper), 2026.](https://openreview.net/pdf?id=H7eYL4yFZS)
+* [Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper, "Can We Talk Models Into Seeing the World Differently?", International Conference on Learning Representations (ICLR) 2025 ](https://openreview.net/pdf?id=iVMcYxTiVM)
 * [Lamm, Bianca, and Janis Keuper. "A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification." Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops. 2025.](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/html/Lamm_A_Visual_RAG_Pipeline_for_Few-Shot_Fine-Grained_Product_Classification_CVPRW_2025_paper.html)
+  
 
 ## Kontakt
 Prof. Janis Keuper <br>
