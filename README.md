@@ -36,11 +36,15 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 
 ### Wiss. Publikationen
 * [Keuper, Janis, "Prompt injection attacks on llm generated reviews of scientific publications", ICPR 26 - ORAL](https://arxiv.org/pdf/2509.10248)
-* [Horn, Pius, and Keuper, Janis, "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs", ICPR 26 - ORAL](https://arxiv.org/pdf/2512.09874)
+* [Horn, Pius, and Keuper, Janis, "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs", ICPR 26 - ORAL](https://arxiv.org/pdf/2512.09874) **ICPR Best Paper Award**
 * [Lamm, Bianca, and Janis Keuper. "mSOP-765k: A Benchmark For Multi-Modal Structured Output Predictions". Transactions on Machine Learning Research (TMLR), J2C Certification (Top 10% paper), 2026.](https://openreview.net/pdf?id=H7eYL4yFZS) -> Journal2Conference Track at ICML 26
 * [Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper, "Can We Talk Models Into Seeing the World Differently?", International Conference on Learning Representations (ICLR) 2025 ](https://openreview.net/pdf?id=iVMcYxTiVM)
 * [Lamm, Bianca, and Janis Keuper. "A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification." Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops. 2025.](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/html/Lamm_A_Visual_RAG_Pipeline_for_Few-Shot_Fine-Grained_Product_Classification_CVPRW_2025_paper.html)
   
+### Auszeichnungen
+* Best Paper Award bei der *International Conference on Pattern Recognition* (ICPR) 2026 in Lyon für unsere Arbeit: [Horn, Pius, and Keuper, Janis, "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs"](https://arxiv.org/pdf/2512.09874)
+&nbsp;<img src="ICPR26_BestPaper.jpg" width=350>&nbsp;
+
 
 ## Kontakt
 Prof. Janis Keuper <br>
