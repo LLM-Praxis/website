@@ -45,6 +45,10 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 * Best Paper Award bei der *International Conference on Pattern Recognition* (ICPR) 2026 in Lyon für unsere Arbeit: [Horn, Pius, and Keuper, Janis, "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs"](https://arxiv.org/pdf/2512.09874)
 &nbsp;<img src="ICPR26_BestPaper.jpg" width=350>&nbsp;
 
+### Open Source Software
+<img src="https://github.com/keuperj/Llameros/blob/main/src/llameros/static/logo.svg" width=150>
+
+[LLameros: a manager for sharing access to local LLMs](https://github.com/keuperj/Llameros/tree/main)
 
 ## Kontakt
 Prof. Janis Keuper <br>
