@@ -46,7 +46,7 @@ Das Herzstück des Projekts ist die anwendungzentrierte Vorgehensweise: gemeinsa
 &nbsp;<img src="ICPR26_BestPaper.jpg" width=350>&nbsp;
 
 ### Open Source Software
-<img src="https://github.com/keuperj/Llameros/blob/main/src/llameros/static/logo.svg" width=150>
+<img src="llameros.svg" width=150>
 
 [LLameros: a manager for sharing access to local LLMs](https://github.com/keuperj/Llameros/tree/main)
 
